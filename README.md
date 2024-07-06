@@ -2,21 +2,7 @@
 
 ###
 
-# naruto-wallpapers
 
-# 💻 Usage
-1. **Set** FOLDER_NAME and IMAGE_NAME variable:
-
-![image](https://user-images.githubusercontent.com/65328736/216979908-38222c84-7ebd-420d-9c90-8a352630f16d.png)
-
-2. **Use** this link for upload the image:
-
-`https://raw.githubusercontent.com/sosukii/naruto-wallpapers/master/${FOLDER_NAME}/${IMAGE_NAME}.jpg`
-![image](https://user-images.githubusercontent.com/65328736/216980225-1aa05c7d-3229-47a2-887c-19581b656426.png)
-
-3. **Put** the link as backgroung-image for some element:
-
-![image](https://user-images.githubusercontent.com/65328736/216982562-2774748c-01ef-4948-b06a-9fffafe094f0.png)
 
 ###
 
